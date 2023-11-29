@@ -1,1 +1,3 @@
 SERIAL_DRIVER = vendor
+UNICODE_COMMON = yes
+UNICODE_ENABLE = yes
